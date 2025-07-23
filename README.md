@@ -1,2 +1,3 @@
 # First-year-Enrollment-System
 # Project of my first year as a computer science student using basic c++ coding and pointers creating the enrollment system
+The First-Year Enrollment System is a basic C++ console application I created during my first year as a Computer Science student. This project focuses on simulating a student enrollment process from first to fourth year, including semester-based enrollment. The system interacts with the user through a series of questions to collect important details such as the student's name, year level, and semester, then processes this information to confirm enrollment. It uses fundamental C++ concepts like pointers, structures, functions, and basic I/O to manage data efficiently. 
